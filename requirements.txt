@@ -1,4 +1,3 @@
-icc_rt==2022.1.0
 tzdata==2023c
 vs2015_runtime==14.27.29016
 bzip2==1.0.8
