@@ -13,8 +13,6 @@ Jinja2
 joblib
 MarkupSafe 
 pyFFTW
-mkl-random
-mkl-service==2.4.0
 numpy 
 packaging 
 pooch 
