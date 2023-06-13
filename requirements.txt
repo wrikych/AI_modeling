@@ -12,7 +12,7 @@ itsdangerous
 Jinja2 
 joblib
 MarkupSafe 
-mkl-fft
+pyFFTW
 mkl-random
 mkl-service==2.4.0
 numpy 
